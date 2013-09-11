@@ -1,0 +1,11 @@
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\bin\Debug\DbfTools.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\bin\Debug\DbfTools.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\DbfTools.Properties.Resources.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\DbfTools.exe.licenses
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\DbfTools.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\DbfTools.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\DbfTools.DbfForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\DbfTools\obj\Debug\DbfTools.DataSource.resources

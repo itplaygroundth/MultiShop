@@ -1,0 +1,104 @@
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.dll
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.pdb
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.NumPad.resources
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll.licenses
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll
+C:\Users\XPintosh\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.pdb
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.NumPad.resources
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll.licenses
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.pdb
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.dll
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.pdb
+C:\Users\macbook-air\Documents\Visual Studio 2010\Projects\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogPasswordBox.resources
+F:\Project\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.dll
+F:\Project\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.pdb
+F:\Project\SmartPOS\SmartLib.cs\bin\Debug\System.Data.SQLite.dll
+F:\Project\SmartPOS\SmartLib.cs\bin\Debug\System.Data.SQLite.pdb
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.csprojResolveAssemblyReference.cache
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogPasswordBox.resources
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.NumPad.resources
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.csproj.GenerateResource.Cache
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll.licenses
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll
+F:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.pdb
+E:\Project\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.dll
+E:\Project\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.pdb
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogPasswordBox.resources
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.NumPad.resources
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.read.1.tlog
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.write.1.tlog
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll.licenses
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll
+E:\Project\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\bin\Debug\SmartLib.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogPasswordBox.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.Controls.NumPad.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll.licenses
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\IQ\SmartPOS\SmartLib.cs\obj\Debug\SmartLib.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogPasswordBox.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartPOS.Controls.GridPageControl.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.NumPad.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.dll.licenses
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.pdb
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartPOS.Controls.GridPageControl.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.csproj.GenerateResource.Cache
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.dll
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.pdb
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.dll
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.pdb
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.dll.CodeAnalysisLog.xml
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.dll.lastcodeanalysissucceeded

@@ -1,0 +1,10 @@
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\MSStoreApp.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\MSStoreApp.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MSClient.MSForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MSClient.Properties.Resources.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MSStoreApp.exe.licenses
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MSStoreApp.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MSStoreApp.pdb
