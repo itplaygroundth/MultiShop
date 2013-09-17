@@ -1,0 +1,5 @@
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MTSHService\bin\Debug\MTSHService.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MTSHService\bin\Debug\MTSHService.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MTSHService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MTSHService\obj\x86\Debug\MTSHService.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MTSHService\obj\x86\Debug\MTSHService.pdb

@@ -1,0 +1,94 @@
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\StoreApp.exe.config
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\StoreApp.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\StoreApp.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\FastReport.Bars.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\FastReport.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\FastReport.Editor.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\FastReport.VSDesign.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\FastReport.Web.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\SmartLib.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\FastReport.xml
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\bin\Debug\FastReport.Web.xml
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.CheckStock.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.CheckStockNet.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SaleSide.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SearchBill.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.MainForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MSClient.MSForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.Properties.Resources.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.ReceiptPage.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SaleForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SaveForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SearchForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.Setting.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.UpdateStock.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\StoreApp.exe.licenses
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\StoreApp.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\StoreApp.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.RecMoney.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\SmartServer.SplashScreen1.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.WaitForm1.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\bin\Debug\StoreApp.exe.config
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\StoreApp.exe
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\StoreApp.pdb
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\bin\Debug\StoreApp.exe
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\bin\Debug\StoreApp.pdb
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\bin\Debug\SmartLib.dll
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\bin\Debug\SmartLib.pdb
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\StoreApp.csprojResolveAssemblyReference.cache
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.CheckStock.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.CheckStockNet.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.RecMoney.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SaleSide.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SearchBill.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.MainForm.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MSClient.MSForm.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.Properties.Resources.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.ReceiptPage.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SaleForm.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SaveForm.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.SearchForm.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.Setting.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\SmartServer.SplashScreen1.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.UpdateStock.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\MultiShop.WaitForm1.resources
+C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\MSClient\obj\Debug\StoreApp.csproj.GenerateResource.Cache
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\StoreApp.exe.config
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\StoreApp.exe
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\StoreApp.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\FastReport.Bars.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\FastReport.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\FastReport.Editor.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\FastReport.VSDesign.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\FastReport.Web.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\SmartLib.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\FastReport.xml
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\FastReport.Web.xml
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\bin\Debug\System.Data.SQLite.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\StoreApp.csprojResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.CheckStock.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.CheckStockNet.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.RecMoney.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.SaleSide.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.SearchBill.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.MainForm.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MSClient.MSForm.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.Properties.Resources.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.ReceiptPage.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.SaleForm.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.SaveForm.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.SearchForm.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.Setting.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\SmartServer.SplashScreen1.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.UpdateStock.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\MultiShop.WaitForm1.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\StoreApp.csproj.GenerateResource.Cache
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\StoreApp.exe
+C:\Users\WIN-7\Documents\GitHub\MultiShop\MSClient\obj\Debug\StoreApp.pdb

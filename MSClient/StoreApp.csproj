@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{07DC68B8-07BB-4582-9353-AB645E5AF794}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MultiShop</RootNamespace>
+    <AssemblyName>StoreApp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>MultiShops.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v13.1.Core, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v13.1.Win, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FastReport, Version=2013.2.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\FastReports\FastReport.Net Demo\FastReport.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Bars, Version=2013.2.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\FastReports\FastReport.Net Demo\FastReport.Bars.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Editor, Version=2013.2.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\FastReports\FastReport.Net Demo\FastReport.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.VSDesign, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\FastReports\FastReport.Net Demo\FastReport.VSDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="FastReport.Web, Version=2013.2.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\FastReports\FastReport.Net Demo\FastReport.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text, Version=3.9.32.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ServiceStack.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CheckStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckStock.Designer.cs">
+      <DependentUpon>CheckStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckStockNet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckStockNet.Designer.cs">
+      <DependentUpon>CheckStockNet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RecMoney.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecMoney.Designer.cs">
+      <DependentUpon>RecMoney.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleSide.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleSide.Designer.cs">
+      <DependentUpon>SaleSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchBill.Designer.cs">
+      <DependentUpon>SearchBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MSForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MSForm.Designer.cs">
+      <DependentUpon>MSForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceiptPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceiptPage.Designer.cs">
+      <DependentUpon>ReceiptPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleForm.Designer.cs">
+      <DependentUpon>SaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaveForm.Designer.cs">
+      <DependentUpon>SaveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchForm.Designer.cs">
+      <DependentUpon>SearchForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting.Designer.cs">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.cs">
+      <DependentUpon>SplashScreen1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateStock.Designer.cs">
+      <DependentUpon>UpdateStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitForm1.Designer.cs">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebServer.cs" />
+    <EmbeddedResource Include="CheckStock.resx">
+      <DependentUpon>CheckStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckStockNet.resx">
+      <DependentUpon>CheckStockNet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecMoney.resx">
+      <DependentUpon>RecMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleSide.resx">
+      <DependentUpon>SaleSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchBill.resx">
+      <DependentUpon>SearchBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MSForm.resx">
+      <DependentUpon>MSForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceiptPage.resx">
+      <DependentUpon>ReceiptPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleForm.resx">
+      <DependentUpon>SaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveForm.resx">
+      <DependentUpon>SaveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchForm.resx">
+      <DependentUpon>SearchForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting.resx">
+      <DependentUpon>Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateStock.resx">
+      <DependentUpon>UpdateStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitForm1.resx">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Images\seperatedot24.png" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon1.ico" />
+    <None Include="Resources\1375217231_04_In_alt.png" />
+    <None Include="Resources\1375217250_60_Comments.png" />
+    <None Include="Resources\1375217217_25_Pause.png" />
+    <None Include="Resources\1375219248_23_Play.png" />
+    <None Include="Resources\1375219033_arrow_down_alt1.png" />
+    <None Include="Resources\1375218964_download_down_arrow.png" />
+    <None Include="Resources\1375217175_39_Calendar.png" />
+    <None Include="Resources\1371048986_aiga_cashier.png" />
+    <None Include="Resources\1375218094_14_Add.png" />
+    <None Include="Resources\1375217160_14_Add.png" />
+    <None Include="Resources\1375217143_18_Close.png" />
+    <None Include="Resources\1375052296_exit.png" />
+    <None Include="Resources\1375052215_invoice.png" />
+    <None Include="Resources\1375052256_billing.png" />
+    <None Include="Resources\1375052114_box.png" />
+    <None Include="Resources\1375052183_customers.png" />
+    <None Include="Images\1371048606_70.png" />
+    <None Include="Images\1371048882_70.png" />
+    <None Include="Images\1371048917_trash.png" />
+    <None Include="Images\1371048898_new-24.png" />
+    <None Include="Images\1371048986_aiga_cashier.png" />
+    <None Include="Images\1371048949_3floppy_unmount.png" />
+    <None Include="Images\1371049297_save.png" />
+    <None Include="Images\1371049264_save.png" />
+    <None Include="Images\1371048967_print.png" />
+    <None Include="Images\seperatedot.png" />
+    <Content Include="MultiShops.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SmartLib.cs\SmartLib.csproj">
+      <Project>{35EECE03-F173-4ABE-ACCE-5BB321037DB0}</Project>
+      <Name>SmartLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

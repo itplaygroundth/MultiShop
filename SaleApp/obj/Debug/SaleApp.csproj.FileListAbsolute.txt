@@ -1,0 +1,16 @@
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.SaleForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.Properties.Resources.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.exe.licenses
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\bin\Debug\SaleApp.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\bin\Debug\SaleApp.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.exe
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.pdb
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.xLogin.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.xFDialog.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.OpenForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.SaveForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.PrintingForm.resources
+C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SaleApp\obj\Debug\SaleApp.ConfigForm.resources

@@ -1,0 +1,188 @@
+﻿
+Log Entry : 1:26:42:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 1:26:42:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 1:26:43:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 1:27:38:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 1:27:38:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 1:27:42:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 1:29:21:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 1:29:21:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 1:29:21:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 1:29:55:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:24:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:24:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:24:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:24:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:24:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:24:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:25:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:25:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:25:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:25:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:26:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 1:30:27:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 13:57:30:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 14:36:11:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 14:36:11:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 14:36:11:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 14:40:27:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 14:40:27:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 14:40:27:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 14:51:00:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 14:51:00:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 14:51:00:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 14:52:37:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 14:52:37:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 14:52:37:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 14:52:37:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 14:55:34:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 14:55:34:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 14:55:34:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 15:03:28:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:03:28:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:03:28:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 15:10:41:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:10:41:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:15:58:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:15:58:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:18:57:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:18:57:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:20:42:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:20:42:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:21:53:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:21:53:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:23:48:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:23:49:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:26:30:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:26:30:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:26:41:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 15:27:18:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:27:36:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:27:40:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:27:40:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:27:40:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:27:41:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:27:41:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:49:31:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:49:31:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:49:39:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 15:49:39:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:49:53:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:49:54:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:49:54:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:49:54:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:49:54:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:49:54:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:56:11:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:56:11:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:56:19:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 15:56:19:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:56:33:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:56:33:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:56:33:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:56:33:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:56:33:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:56:33:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:59:03:9 พฤษภาคม 2556:E:\\item_master.dbf
+
+Log Entry : 15:59:03:9 พฤษภาคม 2556:E:\\stock_do.dbf
+
+Log Entry : 15:59:11:9 พฤษภาคม 2556:starting ... upload
+
+Log Entry : 15:59:11:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:59:26:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:59:26:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:59:26:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:59:26:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:59:27:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
+
+Log Entry : 15:59:27:9 พฤษภาคม 2556:http://udon-it.com/multishop/upload
