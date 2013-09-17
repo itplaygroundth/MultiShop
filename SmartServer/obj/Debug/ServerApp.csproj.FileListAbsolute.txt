@@ -15,3 +15,21 @@ C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartServer
 C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartServer\obj\Debug\ServerApp.exe
 C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartServer\obj\Debug\ServerApp.pdb
 C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartServer\bin\Debug\ServerApp.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\bin\Debug\ServerApp.exe.config
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\ServerApp.exe
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\ServerApp.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\SmartServer.ChildPage.iGetData.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\SmartServer.ChildPage.iPointData.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\SmartServer.ChildPage.iSendData.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\SmartServer.ChildPage.iTemData.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\SmartServer.mainForm.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\MultiShop.Properties.Resources.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\SmartServer.SplashScreen1.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\SmartServer.WaitForm1.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\ServerApp.csproj.GenerateResource.Cache
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\obj\Debug\ServerApp.exe.licenses
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\bin\Debug\ServerApp.exe
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\bin\Debug\ServerApp.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartServer\bin\Debug\System.Data.SQLite.pdb

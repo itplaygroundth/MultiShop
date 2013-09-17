@@ -102,3 +102,17 @@ C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack
 C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\obj\Debug\SmartLib.pdb
 C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.dll.CodeAnalysisLog.xml
 C:\Users\Biw Windows 8 V.4\Documents\Visual Studio 2012\Projects\Smart\SmartBack\SmartLib.cs\bin\Debug\SmartLib.dll.lastcodeanalysissucceeded
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\bin\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\bin\Debug\SmartLib.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\bin\Debug\System.Data.SQLite.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\bin\Debug\System.Data.SQLite.pdb
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartLib.csprojResolveAssemblyReference.cache
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartLib.Controls.DialogMessageBox.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartLib.Controls.Footter.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartPOS.Controls.GridPageControl.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartLib.Controls.Header.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartPOS.Controls.TimeScroller.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartPOS.Properties.Resources.resources
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartLib.csproj.GenerateResource.Cache
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartLib.dll
+C:\Users\WIN-7\Documents\GitHub\MultiShop\SmartLib.cs\obj\Debug\SmartLib.pdb
