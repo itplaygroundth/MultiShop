@@ -1,5 +1,0 @@
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartCentralControl\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartCentralControl\bin\Debug\SmartCentralControl.exe
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartCentralControl\bin\Debug\SmartCentralControl.pdb
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartCentralControl\obj\x86\Debug\SmartCentralControl.exe
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\SmartCentralControl\obj\x86\Debug\SmartCentralControl.pdb

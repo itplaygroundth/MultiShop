@@ -1,5 +1,0 @@
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\TestProject1\bin\Debug\TestProject1.dll
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\TestProject1\bin\Debug\TestProject1.pdb
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\TestProject1\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\TestProject1\obj\Debug\TestProject1.dll
-C:\Users\WIN-7\Documents\Visual Studio 2010\Projects\Smart\SmartBack\TestProject1\obj\Debug\TestProject1.pdb
