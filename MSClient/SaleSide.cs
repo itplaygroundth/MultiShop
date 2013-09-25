@@ -703,7 +703,9 @@ namespace MultiShop
             if (!ispop)
             {
                 preItemGroup();
-                popupControlContainer1.ShowPopup(barManager1, this.PointToClient(new Point(this.splitContainerControl1.Left+250,this.splitContainerControl1.Top+200)));
+                popupControlContainer1.ShowPopup(barManager1, this.PointToClient(new Point(((this.splitContainerControl1.Width/6)),
+                          (this.splitContainerControl1.Height/4))));
+                //popupControlContainer1.ShowPopup(barManager1, this.PointToClient(new Point(this.splitContainerControl1.Left+250,this.splitContainerControl1.Top+200)));
                 ispop = true;
             }
             else

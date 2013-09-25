@@ -7,6 +7,7 @@ using System.ComponentModel;
 using System.Windows.Forms;
 using DevExpress.XtraSplashScreen;
 
+
 namespace MultiShop
 {
     public partial class MainForm : XtraForm
@@ -25,9 +26,9 @@ namespace MultiShop
             this.Text = " Multi Shop V.1 BETA Build 20130820";
             loadConfig();
             badge.Elements.Add(badgele);
-            tileItem7.Frames.Add(badge);
-            tileItem7.FrameAnimationInterval = 2500;
-            tileItem7.StartAnimation();
+            //tileItem7.Frames.Add(badge);
+            //tileItem7.FrameAnimationInterval = 2500;
+            //tileItem7.StartAnimation();
             worker = new BackgroundWorker();
             worker.DoWork += new DoWorkEventHandler(worker_DoWork);
             worker.RunWorkerCompleted += new RunWorkerCompletedEventHandler(worker_RunWorkerCompleted);
@@ -46,13 +47,38 @@ namespace MultiShop
         }
         private void preLoad()
         {
+
             SplashScreenManager.ShowForm(typeof(WaitForm1));
-            SplashScreenManager.Default.SetWaitFormCaption("โหลดการตั้งค่า");
-
-
-            System.Threading.Thread.Sleep(4000);
+            dtup = UpdateStock.UploadItem("www.udon-it.com");
+            if (dtup.Rows.Count > 0)
+            {
+               
+                var upstock = new UpdateStock();
+                upstock.dtup = dtup;
+                upstock.serverip = "www.udon-it.com";
+                for (int i = 0; i < dtup.Rows.Count - 1; i++)
+                {
+                    SplashScreenManager.Default.SetWaitFormCaption(string.Format("อัพเดตข้อมูล {0} รายการ",i));
+                    upstock.updateItem(i);
+                    System.Threading.Thread.Sleep(4000);
+                }
+            }
+            else
+            {
+                SplashScreenManager.Default.SetWaitFormCaption("อัพเดตข้อมูล");
+                System.Threading.Thread.Sleep(4000);
+            }
             SplashScreenManager.CloseForm();
+          
         }
+
+        private Boolean preUpdate()
+        {
+            bool succ = false;
+
+            return succ;
+        }
+
         void worker_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
         {
             //throw new NotImplementedException();
@@ -64,7 +90,7 @@ namespace MultiShop
             try
             {
                 // Log("Running...");
-                refreshItem();
+               // refreshItem();
             }
             catch (Exception ex)
             {
@@ -156,11 +182,11 @@ namespace MultiShop
 
         private void tileItem7_ItemClick(object sender, TileItemEventArgs e)
         {
-            var upstock = new UpdateStock();
-            if(dtup.Rows.Count>0)
-            upstock.dtup = dtup;
-            upstock.serverip = "www.udon-it.com";
-            upstock.ShowDialog();
+            //var upstock = new UpdateStock();
+            //if(dtup.Rows.Count>0)
+            //upstock.dtup = dtup;
+            //upstock.serverip = "www.udon-it.com";
+            //upstock.ShowDialog();
         }
       
 

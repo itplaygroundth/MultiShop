@@ -120,6 +120,12 @@
     <Compile Include="RecMoney.Designer.cs">
       <DependentUpon>RecMoney.cs</DependentUpon>
     </Compile>
+    <Compile Include="ReportPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportPage.Designer.cs">
+      <DependentUpon>ReportPage.cs</DependentUpon>
+    </Compile>
     <Compile Include="SaleSide.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -202,8 +208,12 @@
     <EmbeddedResource Include="CheckStockNet.resx">
       <DependentUpon>CheckStockNet.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="RecMoney.resx">
       <DependentUpon>RecMoney.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportPage.resx">
+      <DependentUpon>ReportPage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SaleSide.resx">
       <DependentUpon>SaleSide.cs</DependentUpon>

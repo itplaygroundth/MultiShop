@@ -239,6 +239,47 @@ namespace MultiShop
             }
         }
 
+        public Boolean updateItem(int offset)
+        {
+            Boolean succ = false;
+            SQLiteDatabase db = new SQLiteDatabase(@"DATA\itemmaster.db");
+            try
+            {
+               // if (dpup.Rows.Count > 0)
+               // {
+                    DataRow dr = dtup.Rows[offset];
+                   // foreach (DataRow dr in dpup.Rows)
+                   // {
+                        Dictionary<string, string> api = new Dictionary<string, string>();
+                        api.Add("ID", dr["ID"].ToString());
+                        api.Add("FULLNAME ", dr["FULLNAME"].ToString());
+                        api.Add("SHORTNAME ", dr["SHORTNAME"].ToString());
+                        api.Add("ITEMTYPECO ", dr["ITEMTYPECO"].ToString());
+                        api.Add("SUPPLIERCO ", dr["SUPPLIERCO"].ToString());
+                        api.Add("SALEPRICE1 ", dr["SALEPRICE1"].ToString());
+                        api.Add("SALEPRICE2 ", dr["SALEPRICE2"].ToString());
+                        api.Add("SALEPRICE3 ", dr["SALEPRICE3"].ToString());
+                        api.Add("SALEPRICE4 ", dr["SALEPRICE4"].ToString());
+                        api.Add("SALEPRICE5 ", dr["SALEPRICE5"].ToString());
+                        api.Add("SALEPRICE6 ", dr["SALEPRICE6"].ToString());
+                        api.Add("SALEPRICE7 ", dr["SALEPRICE7"].ToString());
+                        api.Add("SALEPRICE8 ", dr["SALEPRICE8"].ToString());
+                        api.Add("SALEPRICE9 ", dr["SALEPRICE9"].ToString());
+                        string sql = db.Updatestr("bcitem", api, string.Format(" code='{0}'", dr["CODE"]));
+                        // Log(sql);
+                   // }
+
+              //  }
+              //  MessageBox.Show("Update Completed");
+                        succ = true;
+            }
+            catch (Exception ex)
+            {
+               // MessageBox.Show(ex.Message);
+            }
+            return succ;
+        }
+
         private void simpleButton1_Click(object sender, EventArgs e)
         {
             

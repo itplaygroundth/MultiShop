@@ -35,12 +35,10 @@
             DevExpress.XtraEditors.TileItemElement tileItemElement5 = new DevExpress.XtraEditors.TileItemElement();
             DevExpress.XtraEditors.TileItemElement tileItemElement6 = new DevExpress.XtraEditors.TileItemElement();
             DevExpress.XtraEditors.TileItemElement tileItemElement7 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement8 = new DevExpress.XtraEditors.TileItemElement();
             this.tileControl1 = new DevExpress.XtraEditors.TileControl();
             this.tileGroup2 = new DevExpress.XtraEditors.TileGroup();
             this.Stocking = new DevExpress.XtraEditors.TileItem();
             this.tileItem3 = new DevExpress.XtraEditors.TileItem();
-            this.tileItem7 = new DevExpress.XtraEditors.TileItem();
             this.tileGroup1 = new DevExpress.XtraEditors.TileGroup();
             this.tileItem4 = new DevExpress.XtraEditors.TileItem();
             this.tileItem2 = new DevExpress.XtraEditors.TileItem();
@@ -68,7 +66,6 @@
             // 
             this.tileGroup2.Items.Add(this.Stocking);
             this.tileGroup2.Items.Add(this.tileItem3);
-            this.tileGroup2.Items.Add(this.tileItem7);
             this.tileGroup2.Name = "tileGroup2";
             this.tileGroup2.Text = null;
             // 
@@ -76,9 +73,11 @@
             // 
             this.Stocking.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 16.25F);
             this.Stocking.AppearanceItem.Normal.Options.UseFont = true;
+            this.Stocking.ContentAnimation = DevExpress.XtraEditors.TileItemContentAnimationType.Fade;
             tileItemElement1.Text = "รับสินค้า";
             this.Stocking.Elements.Add(tileItemElement1);
             this.Stocking.Id = 0;
+            this.Stocking.IsLarge = true;
             this.Stocking.Name = "Stocking";
             this.Stocking.ItemClick += new DevExpress.XtraEditors.TileItemClickEventHandler(this.Stocking_ItemClick);
             // 
@@ -89,23 +88,9 @@
             tileItemElement2.Text = "ขายสินค้า";
             this.tileItem3.Elements.Add(tileItemElement2);
             this.tileItem3.Id = 3;
+            this.tileItem3.IsLarge = true;
             this.tileItem3.Name = "tileItem3";
             this.tileItem3.ItemClick += new DevExpress.XtraEditors.TileItemClickEventHandler(this.tileItem3_ItemClick);
-            // 
-            // tileItem7
-            // 
-            this.tileItem7.AppearanceItem.Hovered.Font = new System.Drawing.Font("Tahoma", 18.25F);
-            this.tileItem7.AppearanceItem.Hovered.Options.UseFont = true;
-            this.tileItem7.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 18.25F);
-            this.tileItem7.AppearanceItem.Normal.Options.UseFont = true;
-            this.tileItem7.AppearanceItem.Selected.Font = new System.Drawing.Font("Tahoma", 28.25F);
-            this.tileItem7.AppearanceItem.Selected.Options.UseFont = true;
-            tileItemElement3.Text = "อัพเดต";
-            this.tileItem7.Elements.Add(tileItemElement3);
-            this.tileItem7.Id = 7;
-            this.tileItem7.IsLarge = true;
-            this.tileItem7.Name = "tileItem7";
-            this.tileItem7.ItemClick += new DevExpress.XtraEditors.TileItemClickEventHandler(this.tileItem7_ItemClick);
             // 
             // tileGroup1
             // 
@@ -118,8 +103,8 @@
             // 
             this.tileItem4.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 16.25F);
             this.tileItem4.AppearanceItem.Normal.Options.UseFont = true;
-            tileItemElement4.Text = "ตรวจนับสินค้า (Network)";
-            this.tileItem4.Elements.Add(tileItemElement4);
+            tileItemElement3.Text = "ตรวจนับสินค้า (Network)";
+            this.tileItem4.Elements.Add(tileItemElement3);
             this.tileItem4.Id = 4;
             this.tileItem4.IsLarge = true;
             this.tileItem4.Name = "tileItem4";
@@ -129,8 +114,8 @@
             // 
             this.tileItem2.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 16.25F);
             this.tileItem2.AppearanceItem.Normal.Options.UseFont = true;
-            tileItemElement5.Text = "ตรวจนับสืนค้า (StandAlone)";
-            this.tileItem2.Elements.Add(tileItemElement5);
+            tileItemElement4.Text = "ตรวจนับสืนค้า (StandAlone)";
+            this.tileItem2.Elements.Add(tileItemElement4);
             this.tileItem2.Id = 2;
             this.tileItem2.IsLarge = true;
             this.tileItem2.Name = "tileItem2";
@@ -148,8 +133,8 @@
             // 
             this.tileItem5.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 22.25F);
             this.tileItem5.AppearanceItem.Normal.Options.UseFont = true;
-            tileItemElement6.Text = "รายงาน";
-            this.tileItem5.Elements.Add(tileItemElement6);
+            tileItemElement5.Text = "รายงาน";
+            this.tileItem5.Elements.Add(tileItemElement5);
             this.tileItem5.Id = 5;
             this.tileItem5.IsLarge = true;
             this.tileItem5.Name = "tileItem5";
@@ -158,8 +143,8 @@
             // 
             this.tileItem6.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 18.25F);
             this.tileItem6.AppearanceItem.Normal.Options.UseFont = true;
-            tileItemElement7.Text = "ตั้งค่า";
-            this.tileItem6.Elements.Add(tileItemElement7);
+            tileItemElement6.Text = "ตั้งค่า";
+            this.tileItem6.Elements.Add(tileItemElement6);
             this.tileItem6.Id = 6;
             this.tileItem6.Name = "tileItem6";
             this.tileItem6.ItemClick += new DevExpress.XtraEditors.TileItemClickEventHandler(this.tileItem6_ItemClick);
@@ -168,8 +153,8 @@
             // 
             this.tileItem1.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 26.25F);
             this.tileItem1.AppearanceItem.Normal.Options.UseFont = true;
-            tileItemElement8.Text = "ออก";
-            this.tileItem1.Elements.Add(tileItemElement8);
+            tileItemElement7.Text = "ออก";
+            this.tileItem1.Elements.Add(tileItemElement7);
             this.tileItem1.Id = 1;
             this.tileItem1.Name = "tileItem1";
             this.tileItem1.ItemClick += new DevExpress.XtraEditors.TileItemClickEventHandler(this.tileItem1_ItemClick);
@@ -201,6 +186,5 @@
         private DevExpress.XtraEditors.TileItem tileItem5;
         private DevExpress.XtraEditors.TileGroup tileGroup4;
         private DevExpress.XtraEditors.TileItem tileItem6;
-        private DevExpress.XtraEditors.TileItem tileItem7;
     }
 }
