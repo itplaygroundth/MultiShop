@@ -138,6 +138,7 @@
             this.tileItem5.Id = 5;
             this.tileItem5.IsLarge = true;
             this.tileItem5.Name = "tileItem5";
+            this.tileItem5.ItemClick += new DevExpress.XtraEditors.TileItemClickEventHandler(this.tileItem5_ItemClick);
             // 
             // tileItem6
             // 

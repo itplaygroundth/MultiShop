@@ -20,6 +20,7 @@ using System.Data.OleDb;
 using FastReport;
 using FastReport.Utils;
 
+
 namespace MultiShop
 {
     public partial class SaleSide : DevExpress.XtraEditors.XtraForm

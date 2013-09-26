@@ -66,6 +66,7 @@
     <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraNavBar.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraVerticalGrid.v13.1, Version=13.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="FastReport, Version=2013.2.5.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -120,11 +121,11 @@
     <Compile Include="RecMoney.Designer.cs">
       <DependentUpon>RecMoney.cs</DependentUpon>
     </Compile>
-    <Compile Include="ReportPage.cs">
+    <Compile Include="ReportForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ReportPage.Designer.cs">
-      <DependentUpon>ReportPage.cs</DependentUpon>
+    <Compile Include="ReportForm.Designer.cs">
+      <DependentUpon>ReportForm.cs</DependentUpon>
     </Compile>
     <Compile Include="SaleSide.cs">
       <SubType>Form</SubType>
@@ -212,8 +213,8 @@
     <EmbeddedResource Include="RecMoney.resx">
       <DependentUpon>RecMoney.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReportPage.resx">
-      <DependentUpon>ReportPage.cs</DependentUpon>
+    <EmbeddedResource Include="ReportForm.resx">
+      <DependentUpon>ReportForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SaleSide.resx">
       <DependentUpon>SaleSide.cs</DependentUpon>

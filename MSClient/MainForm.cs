@@ -205,6 +205,14 @@ namespace MultiShop
            
             
         }
+
+        private void tileItem5_ItemClick(object sender, TileItemEventArgs e)
+        {
+            ReportForm reportfrm = new ReportForm();
+            reportfrm.StartPosition = FormStartPosition.CenterParent;
+            reportfrm.WindowState = FormWindowState.Maximized;
+            reportfrm.ShowDialog();
+        }
     }
     public class appConfig
     {
